@@ -16,7 +16,7 @@
 <img src="https://user-images.githubusercontent.com/38282886/65164642-429c9700-da78-11e9-9464-941b125d538c.png" width="90%"></img>
 
 <h1>2.使用技術</h1>
-Java, JDBC
+Java, JDBC, Oracle DB
 
 <h1>3.開発期間、人員</h1>
 4日(2019.06.04~2019.06.07)、2人
